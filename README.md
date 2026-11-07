@@ -18,7 +18,7 @@ I am currently pursuing a Bachelor's degree in **Computer Science and Engineerin
 ## 🌍 Beyond the Screen
 When I am not coding or studying, I spend time exploring linguistics and multicultural communication. 
 *   **Languages I speak:** Bengali, English, Hindi, and Urdu.
-*   **Currently learning:** Japanese and German.
+*   **Currently learning:** Chinese, Japanese and German.
 
 ---
 *Thanks for stopping by! I will be updating this space with more projects and code as my CSE journey continues.*
